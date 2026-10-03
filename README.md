@@ -79,6 +79,23 @@ developer = {
 
 ---
 
+<!-- ══════════════ CONTRIBUTION SNAKE ══════════════ -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<p>Watch the snake automatically play through my GitHub contribution graph.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dawoodriy-hub/dawoodriy-hub/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dawoodriy-hub/dawoodriy-hub/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/dawoodriy-hub/dawoodriy-hub/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 <!-- ══════════════ QUOTE ══════════════ -->
 ## 💬 Quote of the Day
 
